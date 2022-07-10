@@ -13,4 +13,7 @@ Don't look back
 Oden's sons
 Attack!
 
-NOT FAST FORWARD MERGE
+I am adding 
+New content here
+To test and resolve
+Conflicts in git
