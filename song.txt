@@ -8,10 +8,9 @@ Sheild by sheild
 Side by side
 We're marching into destiny
 
-Something new is here
-(Available only in the 'feature' branch!
-
 March as one
 Don't look back 
 Oden's sons
 Attack!
+
+NOT FAST FORWARD MERGE
