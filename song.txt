@@ -17,3 +17,10 @@ I am adding
 New content here
 To test and resolve
 Conflicts in git
+
+NOT FAST FORWARD MERGE
+
+March as one
+Don't look back 
+Oden's sons
+Attack!
